@@ -22,5 +22,6 @@ public class MainActivity extends AppCompatActivity
     public void onFragmentInteraction(String message) {
         //some action from fragment
         //another one
+        //update master
     }
 }
