@@ -20,6 +20,6 @@ public class MainActivity extends AppCompatActivity
 
     @Override
     public void onFragmentInteraction(String message) {
-        
+        //some action from fragment
     }
 }
